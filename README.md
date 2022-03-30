@@ -2,7 +2,7 @@
 
 #### I'm a Brazilian web/mobile developer using Angular and Ionic most of the time, but learning React as well. My free time is spent with games, movies, series and anime. I have a degree in Systems Analysis and Development.
 
-</br>
+#
 
 ## ⭐️ Some of the development technologies that I have the most experience ⭐️
 
@@ -26,6 +26,10 @@
 <span> <img height= "35" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> </span>
 <span> <img height= "35" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> </span>
 
+## 👇🏻  You can find me here  👇🏻
+
+<a href="mailto:gersonpedroso14@gmail.com"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/gerson-pedroso"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!---
 Gerson-Pedroso/Gerson-Pedroso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
